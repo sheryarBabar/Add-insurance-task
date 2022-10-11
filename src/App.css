@@ -1,0 +1,56 @@
+.main-document {
+    background-color: #e6e6e6;
+}
+
+.content {
+    background-color: #f8f8f8;
+    min-height: 90vh;
+}
+
+.heading {
+    font-weight: 400;
+    margin-top: 50px !important;
+}
+
+.quoteDetails-text {
+    line-height: 30px;
+}
+
+.quoteCard {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+    border: 1px solid black !important;
+    background-color: white !important;
+}
+
+.quoteCard-text {
+    max-width: 65%;
+    text-align: center;
+}
+
+.btn-block {
+    width: 65% !important;
+}
+
+.extraCard-heading {
+    font-weight: 400;
+}
+
+.extraCard-top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.extraCard {
+    padding: 10px 20px;
+    min-height: 220px;
+    max-height: fit-content;
+    background-color: #ffffff !important;
+    border: 1px solid black !important;
+}
+
+.font-small {
+    font-size: 14px;
+}
